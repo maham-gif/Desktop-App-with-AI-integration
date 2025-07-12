@@ -1,0 +1,46 @@
+C:\Users\Administrator\source\repos\Student performanceprediction\bin\Debug\Student performanceprediction.exe.config
+C:\Users\Administrator\source\repos\Student performanceprediction\bin\Debug\Student performanceprediction.exe
+C:\Users\Administrator\source\repos\Student performanceprediction\bin\Debug\Student performanceprediction.pdb
+C:\Users\Administrator\source\repos\Student performanceprediction\bin\Debug\Student performanceprediction.xml
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student performanceprediction.vbproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student_performanceprediction.Form1.resources
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student_performanceprediction.Resources.resources
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student performanceprediction.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student performanceprediction.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student performanceprediction.exe
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student performanceprediction.xml
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student performanceprediction.pdb
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student_performanceprediction.RoleSelectionForm.resources
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student_performanceprediction.newLoginForm.resources
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student_performanceprediction.SignUpForm.resources
+C:\Users\Administrator\source\repos\Student performanceprediction\bin\Debug\Guna.UI.dll
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student .5BF0DCD4.Up2Date
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student_performanceprediction.StudentProfileForm.resources
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student_performanceprediction.ProfileForm2.resources
+C:\Users\Administrator\source\repos\Student performanceprediction\bin\Debug\stdole.dll
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student_performanceprediction.NewSummaryForm.resources
+C:\Users\Administrator\source\repos\Student performanceprediction\obj\Debug\Student_performanceprediction.AnalyzeForm.resources
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\bin\Debug\Student performanceprediction.exe.config
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\bin\Debug\Student performanceprediction.exe
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\bin\Debug\Student performanceprediction.pdb
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\bin\Debug\Student performanceprediction.xml
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\bin\Debug\stdole.dll
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student performanceprediction.vbproj.AssemblyReference.cache
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student performanceprediction.exe.config
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student_performanceprediction.AnalyzeForm.resources
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student_performanceprediction.Form1.resources
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student_performanceprediction.Resources.resources
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student_performanceprediction.newLoginForm.resources
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student_performanceprediction.NewSummaryForm.resources
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student_performanceprediction.ProfileForm2.resources
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student_performanceprediction.RoleSelectionForm.resources
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student_performanceprediction.SignUpForm.resources
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student_performanceprediction.StudentProfileForm.resources
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student performanceprediction.vbproj.GenerateResource.cache
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student performanceprediction.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student .5BF0DCD4.Up2Date
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student performanceprediction.exe
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student performanceprediction.xml
+C:\Users\HP\Downloads\fyp FILE\Student performanceprediction\obj\Debug\Student performanceprediction.pdb
